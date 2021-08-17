@@ -5,7 +5,7 @@ I love anything related to programming and web/app development. That is the reas
 
 <a href='https://github.com/marketplace/actions/quote-readme'>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Minimalism is not a lack of something. It’s simply the perfect amount of something.”— Nicholas Burroughs   ❞</i>
+<i>❝Minimalism is not a lack of something. It’s simply the perfect amount of something.❞ — Nicholas Burrough</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
