@@ -18,5 +18,6 @@ I love anything related to programming and web/app development. That is the reas
 - [Facebook](https://www.facebook.com/thiennguyenpro/)
 - [Youtube](https://www.youtube.com/thiennguyenpro)
 - [LinkedIn](https://www.linkedin.com/in/thiennguyenpro/)
+- [Google Developer Profile](https://g.dev/thiennguyen)
 
 
