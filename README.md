@@ -9,8 +9,7 @@ I love anything related to programming and web/app development. That is the reas
 
 
 ## Find me around the web 🌏
-- Official GitHub Page [thiennguyen93.github.io](https://thiennguyen93.github.io/) or [thiennguyen-blog.netlify.app](//thiennguyen-blog.netlify.app/)
-- Website: [www.thiennguyenpro.com](http://www.thiennguyenpro.com)
+- Official Blog [thiennguyen93.github.io](https://thiennguyen.dev/)
 - Email: phuocthien@outlook.com / info@thiennguyenpro.com
 - Phone: (+84) 395 443 490
 
