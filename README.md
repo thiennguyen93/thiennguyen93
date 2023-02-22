@@ -15,9 +15,9 @@ I love anything related to programming and web/app development. That is the reas
 - Phone: (+84) 395 443 490
 
 ### Social media
-- [Facebook](https://www.facebook.com/thiennguyenpro/)
+- [Facebook](https://www.facebook.com/thiennguyen.dev/)
 - [Youtube](https://www.youtube.com/thiennguyenpro)
-- [LinkedIn](https://www.linkedin.com/in/thiennguyenpro/)
+- [LinkedIn](https://www.linkedin.com/in/thiennguyendev/)
 - [Google Developer](https://g.dev/thiennguyen)
 
 
