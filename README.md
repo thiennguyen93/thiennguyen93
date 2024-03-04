@@ -10,7 +10,7 @@ I love anything related to programming and web/app development. That is the reas
 
 ## Find me around the web 🌏
 - Official Blog [www.thiennguyen.dev](https://thiennguyen.dev/) (available in both English and Vietnamese)
-- Email: me@thiennguyen.dev
+- Email: hi@thiennguyen.dev
 - Phone: (+84) 395 443 490
 
 ### Social media
